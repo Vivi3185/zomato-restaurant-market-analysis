@@ -71,10 +71,11 @@ The project transforms raw data into **interactive dashboards and actionable bus
 
 ## Screenshots
 
-![Dashboard 1](Screenshots/dashboard1_market_overview.png)
-![Dashboard 2](Screenshots/dashboard2_location_insights.png)
-![Dashboard 3](Screenshots/dashboard3_cuisine_analysis.png)
-![Dashboard 4](Screenshots/dashboard4_online_booking.png)
+![Dashboard 1](Zomato-Restaurant-Market-Analysis/Screenshots/dashboard1_market_overview.png)
+![Dashboard 2](Zomato-Restaurant-Market-Analysis/Screenshots/dashboard2_location_insights.png)
+![Dashboard 3](Zomato-Restaurant-Market-Analysis/Screenshots/dashboard3_cuisine_analysis.png)
+![Dashboard 4](Zomato-Restaurant-Market-Analysis/Screenshots/dashboard4_online_booking.png)
 
 ---
+
 
